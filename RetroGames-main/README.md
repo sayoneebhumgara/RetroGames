@@ -51,9 +51,3 @@ We welcome contributions from the community to enhance the Retro Games platform.
 ## Acknowledgements
 
 We would like to express our gratitude to all the game developers who created the amazing retro games that have left a lasting impact on our lives. Thank you for your creativity and innovation!
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to reach out to us at exoticblistered@gmail.com. We would love to hear from you!
-
-Happy gaming!
